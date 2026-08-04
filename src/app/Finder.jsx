@@ -149,7 +149,7 @@ export default function Finder({ initialPath = "/icloud", windowId, maximized, i
       appId: "Safari",
       name: "Safari.app",
       type: "app",
-      icon: "https://s3.macosicons.com/macosicons/icons/utug9Rt8g6/lowResPngFile_a0b8d534889b5695781a9a03f388e2d4_low_res_Safari__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Safari__MacOS_Tahoe__utug9Rt8g6_lowResPng-e86f84b6e9.png",
       comp: <Safari />,
       date: "2026-06-15T10:00:00Z",
       size: 28400000
@@ -159,7 +159,7 @@ export default function Finder({ initialPath = "/icloud", windowId, maximized, i
       appId: "Music",
       name: "Music.app",
       type: "app",
-      icon: "https://s3.macosicons.com/macosicons/icons/60EVxS5XYc/lowResPngFile_43fc64dd49d0125e9b34d1d49204cafb_low_res_Music__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Music_macOS_Golden_Gate_LJox0IObSI-d626e3640a.png",
       comp: <Spotify />,
       date: "2026-06-15T10:00:00Z",
       size: 42100000
@@ -169,7 +169,7 @@ export default function Finder({ initialPath = "/icloud", windowId, maximized, i
       appId: "Settings",
       name: "Settings.app",
       type: "app",
-      icon: "https://s3.macosicons.com/macosicons/icons/mTHdx8YStT/lowResPngFile_4fc1a86ec5cb831e11c424f412b8da37_low_res_Settings.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Settings_macOS_Golden_Gate_iR77bVvZBc-502ef0dc70.png",
       comp: <Settings />,
       date: "2026-06-15T10:00:00Z",
       size: 18900000
@@ -179,7 +179,7 @@ export default function Finder({ initialPath = "/icloud", windowId, maximized, i
       appId: "Photos",
       name: "Photos.app",
       type: "app",
-      icon: "https://s3.macosicons.com/macosicons/icons/GnoLTHQNAZ/lowResPngFile_f4e3bd7d0753d890bb3b53e3ea193cfe_low_res_Photos__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Photos_macOS_Golden_Gate_mxVHKSuSHM-06d7e83102.png",
       comp: <MacGallery />,
       date: "2026-06-15T10:00:00Z",
       size: 34500000
@@ -189,7 +189,7 @@ export default function Finder({ initialPath = "/icloud", windowId, maximized, i
       appId: "Notes",
       name: "Notes.app",
       type: "app",
-      icon: "https://s3.macosicons.com/macosicons/icons/Tn8SuaHtAM/lowResPngFile_2a846d9fb757a742e6ab7ec9b243027e_low_res_Notes__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Notes__MacOS_Tahoe__Tn8SuaHtAM_lowResPng-632fb908b1.png",
       comp: <Blogs />,
       date: "2026-06-15T10:00:00Z",
       size: 12400000
@@ -199,7 +199,7 @@ export default function Finder({ initialPath = "/icloud", windowId, maximized, i
       appId: "AppStore",
       name: "App Store.app",
       type: "app",
-      icon: "https://s3.macosicons.com/macosicons/icons/ZTpqalXxE3/lowResPngFile_8f0aba462304996c37f9f506b368c53b_low_res_App_Store__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/App_Store__MacOS_Tahoe__ZTpqalXxE3_lowResPng-b755fc1237.png",
       date: "2026-06-15T10:00:00Z",
       size: 51200000
     }
@@ -1004,7 +1004,7 @@ export default function Finder({ initialPath = "/icloud", windowId, maximized, i
       if (file.name === "Applications") {
         return (
           <img
-            src="https://s3.macosicons.com/macosicons/icons/ZTpqalXxE3/lowResPngFile_8f0aba462304996c37f9f506b368c53b_low_res_App_Store__MacOS_Tahoe_.png"
+                    src="https://s3-new.macosicons.com/macosicons/parse/App_Store__MacOS_Tahoe__ZTpqalXxE3_lowResPng-b755fc1237.png"
             alt="Applications"
             className={`${sizeClass} object-contain rounded-xl`}
           />
@@ -1170,7 +1170,7 @@ export default function Finder({ initialPath = "/icloud", windowId, maximized, i
               >
                 <div className="w-4 h-4 flex items-center justify-center">
                   <img
-                    src="https://s3.macosicons.com/macosicons/icons/ZTpqalXxE3/lowResPngFile_8f0aba462304996c37f9f506b368c53b_low_res_App_Store__MacOS_Tahoe_.png"
+            src="https://s3-new.macosicons.com/macosicons/parse/App_Store__MacOS_Tahoe__ZTpqalXxE3_lowResPng-b755fc1237.png"
                     alt="Applications"
                     className="w-4 h-4 object-contain rounded"
                   />

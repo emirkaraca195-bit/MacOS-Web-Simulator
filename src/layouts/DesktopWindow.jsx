@@ -450,7 +450,7 @@ export default function Desktop({ setStage, isLocked = false }) {
           alt="folder"
           className="w-14 h-14 drop-shadow-lg object-contain"
           onError={(e) => {
-            e.target.src = 'https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/50cce92fe1e8a5b82de86e1c98146ba1_low_res_Folder_Common.png';
+            e.target.src = 'https://s3-new.macosicons.com/macosicons/parse/MacOS_Default_Folder_icon_GecwaBmkFQ_lowResPng-6d37abc4ac.png';
           }}
         />
       );

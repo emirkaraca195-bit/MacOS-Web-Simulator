@@ -114,125 +114,125 @@ export default function Launchpad({ windowId }) {
     {
       appId: "Safari",
       label: "Safari",
-      icon: "https://s3.macosicons.com/macosicons/icons/utug9Rt8g6/lowResPngFile_a0b8d534889b5695781a9a03f388e2d4_low_res_Safari__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Safari__MacOS_Tahoe__utug9Rt8g6_lowResPng-e86f84b6e9.png",
       comp: <Safari />,
     },
     {
       appId: "Messages",
       label: "Messages",
-      icon: "https://s3.macosicons.com/macosicons/icons/DCoou8JdsT/lowResPngFile_82dcd5dc896ad17021f25d236b575d68_DCoou8JdsT.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Messages_macOS_Golden_Gate_ow94O6GAvP-2934473a5d.png",
     },
     {
       appId: "Mail",
       label: "Mail",
-      icon: "https://s3.macosicons.com/macosicons/icons/OABVbEbk1D/lowResPngFile_1b3cda920534d66fcf25849afdeee35b_low_res_Mail__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Mail_macOS_Golden_Gate_3BIjmD3GZM-ae5977fd03.png",
     },
     {
       appId: "Maps",
       label: "Maps",
-      icon: "https://s3.macosicons.com/macosicons/icons/5aA6m3BXxr/lowResPngFile_a3b2511cb67879107a0b6da86c3d1dc5_low_res_Maps__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Maps_macOS_Golden_Gate_jOxvDFgSHw-b6ceac8cd4.png",
       url: "https://maps.apple.com",
     },
     {
       appId: "Photos",
       label: "Photos",
-      icon: "https://s3.macosicons.com/macosicons/icons/GnoLTHQNAZ/lowResPngFile_f4e3bd7d0753d890bb3b53e3ea193cfe_low_res_Photos__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Photos_macOS_Golden_Gate_mxVHKSuSHM-06d7e83102.png",
       comp: <MacGallery />,
     },
     {
       appId: "FaceTime",
       label: "FaceTime",
-      icon: "https://s3.macosicons.com/macosicons/icons/E0Ws4w1yiC/lowResPngFile_b04a7c53fd9f231f804bd3261bcb6430_low_res_Facetime.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Facetime_macOS_Golden_Gate_Qxnt8DtlwP-e0839d42d8.png",
       comp: <FaceTime />,
     },
     {
       appId: "Phone",
       label: "Phone",
-      icon: "https://s3.macosicons.com/macosicons/icons/Ji1iUu6nEa/lowResPngFile_e783299046843b81979c158cefcacf46_Ji1iUu6nEa.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Phone_macOS_Golden_Gate_NWKA493TFf-bffc4d8efc.png",
       comp: <PhoneApp />,
     },
     {
       appId: "Calendar",
       label: "Calendar",
-      icon: "https://s3.macosicons.com/macosicons/icons/4GkFHZIM7u/lowResPngFile_d5fa0dee2f905f35c1467503869f42d8_4GkFHZIM7u.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Calender_25y2FI4DUz_lowResPng-d649f6c721.png",
       comp: <CalendarApp />,
     },
     {
       appId: "Contacts",
       label: "Contacts",
-      icon: "https://s3.macosicons.com/macosicons/icons/qxxJOsedmH/lowResPngFile_e03dd92dadf694dbe1b0ca0ad69d53d8_qxxJOsedmH.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Contacts_macOS_Golden_Gate_oKWnz3UDu6-20ba74faaf.png",
       comp: <ContactsApp />,
     },
     {
       appId: "Notes",
       label: "Notes",
-      icon: "https://s3.macosicons.com/macosicons/icons/Tn8SuaHtAM/lowResPngFile_2a846d9fb757a742e6ab7ec9b243027e_low_res_Notes__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Notes__MacOS_Tahoe__Tn8SuaHtAM_lowResPng-632fb908b1.png",
       comp: <Blogs />,
     },
     {
       appId: "Reminders",
       label: "Reminders",
-      icon: "https://s3.macosicons.com/macosicons/icons/uFtsFtU4uA/lowResPngFile_68881de178401c6820d597d688105fea_low_res_Reminders__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Reminders_macOS_Golden_Gate_EVBkfKEpyn-b296bae148.png",
       comp: <RemindersApp />,
     },
     {
       appId: "Music",
       label: "Music",
-      icon: "https://s3.macosicons.com/macosicons/icons/60EVxS5XYc/lowResPngFile_43fc64dd49d0125e9b34d1d49204cafb_low_res_Music__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Music_macOS_Golden_Gate_LJox0IObSI-d626e3640a.png",
       comp: <Spotify />,
     },
     {
       appId: "Podcasts",
       label: "Podcasts",
-      icon: "https://s3.macosicons.com/macosicons/icons/ke09iVGIts/lowResPngFile_9c4c56c407f28786a1e3b520d15581bd_low_res_Podcasts.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Podcasts_macOS_Golden_Gate_PLHwgdc3Fl-4abdcae811.png",
     },
     {
       appId: "TV",
       label: "TV",
-      icon: "https://s3.macosicons.com/macosicons/icons/AMBfkU1HCk/lowResPngFile_859f7d5d82c4ab0ab61c4f5c54a4e128_low_res_TV.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_TV_macOS_Golden_Gate_j8weRAj4mw-f0424494f0.png",
     },
     {
       appId: "AppStore",
       label: "App Store",
-      icon: "https://s3.macosicons.com/macosicons/icons/ZTpqalXxE3/lowResPngFile_8f0aba462304996c37f9f506b368c53b_low_res_App_Store__MacOS_Tahoe_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/App_Store__MacOS_Tahoe__ZTpqalXxE3_lowResPng-b755fc1237.png",
     },
     {
       appId: "Pages",
       label: "Pages",
-      icon: "https://s3.macosicons.com/macosicons/icons/yS4ZGNMHPE/lowResPngFile_a972c71f10ce8c450b90fceeac2cff24_low_res_Pages__Default___macOS_26.2__.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Pages__Apple_Creative_Studio__hHeqYyTXZ3_lowResPng-7a5fbcd210.png",
     },
     {
       appId: "Numbers",
       label: "Numbers",
-      icon: "https://s3.macosicons.com/macosicons/icons/orUYyfFrkH/lowResPngFile_9a2fdc6e0cdc4be97c385da2f582d669_low_res_Numbers__Default___macOS_26.2__.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Numbers__Apple_Creative_Studio__pfooNXbNnX_lowResPng-665922f586.png",
     },
     {
       appId: "Keynote",
       label: "Keynote",
-      icon: "https://s3.macosicons.com/macosicons/icons/SlTcHVkQP5/lowResPngFile_a298aca968f43febc06df474aefb8eb5_low_res_Keynote__Apple_Creative_Studio_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Keynote__Apple_Creative_Studio__SlTcHVkQP5_lowResPng-aac0878b95.png",
     },
     {
       appId: "Settings",
       label: "Settings",
-      icon: "https://s3.macosicons.com/macosicons/icons/mTHdx8YStT/lowResPngFile_4fc1a86ec5cb831e11c424f412b8da37_low_res_Settings.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/low_res_Settings_macOS_Golden_Gate_iR77bVvZBc-502ef0dc70.png",
       comp: <Settings />,
     },
     {
       appId: "Github",
       label: "GitHub",
-      icon: "https://s3.macosicons.com/macosicons/icons/AhTpsJCAbn/lowResPngFile_f024fedc7c28b04afb3e45d69ad10be2_low_res_GitHub_Desktop__clear__dark_.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/GitHub_mm0mJOQEAS_lowResPng-6e5b90d2c7.png",
       url: "https://github.com/LikhithSP",
     },
     {
       appId: "linkedin",
       label: "LinkedIn",
-      icon: "https://s3.macosicons.com/macosicons/icons/ZcwY6Altec/lowResPngFile_51f93886aae8020c24a499a78bc19be3_low_res_LinkedIn.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/LinkedIn_ZcwY6Altec_lowResPng-59b3305d8f.png",
       url: "https://www.linkedin.com/in/likhithsp/",
     },
     {
       appId: "Trash",
       label: "Trash",
-      icon: "https://s3.macosicons.com/macosicons/icons/lVRgezRq9O/lowResPngFile_0c8fd7da19979a71c397f82b7764f8df_lVRgezRq9O.png",
+      icon: "https://s3-new.macosicons.com/macosicons/parse/Bin_Empty_Tahoe_x2cZW1cg7Y_lowResPng-cc516d2e3c.png",
       comp: <Trash />,
     }
   ];
@@ -285,7 +285,7 @@ export default function Launchpad({ windowId }) {
           <TrafficLights windowId={windowId} />
           <div className="flex items-center gap-2">
             <img 
-              src="https://s3.macosicons.com/macosicons/icons/ZTpqalXxE3/lowResPngFile_8f0aba462304996c37f9f506b368c53b_low_res_App_Store__MacOS_Tahoe_.png"
+              src="https://s3-new.macosicons.com/macosicons/parse/App_Store__MacOS_Tahoe__ZTpqalXxE3_lowResPng-b755fc1237.png"
               alt="App Store icon" 
               className="w-5 h-5 object-contain"
             />
