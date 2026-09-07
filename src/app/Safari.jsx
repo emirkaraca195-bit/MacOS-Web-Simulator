@@ -334,7 +334,6 @@ export function Safari({ initialUrl = "https://www.google.com/webhp?igu=1", wind
           onLoad={handleIframeLoad}
           className={`w-full h-full border-none hide-scrollbar ${isDragging || isResizing ? "pointer-events-none" : ""}`}
           referrerPolicy="no-referrer"
-          title="Safari Browser"
         />
       </div>
 
