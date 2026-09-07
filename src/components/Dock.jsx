@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { useAppStore } from "../store/Appstore.js";
 import { Safari } from "../app/Safari";
+import GoogleSearch from "../app/GoogleSearch";
 import Spotify from "../app/Spotify";
 import Settings from "../app/Settings";
 import MacGallery from "../app/Gallary";
@@ -120,6 +121,18 @@ export default function Dock() {
       label: "Launchpad",
       icon: "https://s3-new.macosicons.com/macosicons/parse/Launchpad__MacOS_Tahoe__ncy8MiCAOA_lowResPng-ffd58d03cd.png",
       comp: <Launchpad />,
+    },
+    {
+      id: "Chrome",
+      label: "Google Chrome",
+      icon: "https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png",
+      comp: <Safari initialUrl="https://www.google.com/webhp?igu=1" />,
+    },
+    {
+      id: "Google",
+      label: "Google Arama",
+      icon: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg",
+      comp: <GoogleSearch />,
     },
     {
       id: "Safari",
